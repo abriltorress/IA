@@ -109,4 +109,4 @@ La Inteligencia Artificial (IA) y el Aprendizaje Automático (Machine Learning, 
 #### 7. Finanzas:
 - **IA :** Los bancos y servicios financieros usan IA para detectar fraudes, automatizar procesos de atención al cliente y evaluar riesgos crediticios.
 - **ML :** Mediante ML, estos sistemas mejoran su precisión en la detección de transacciones fraudulentas y pueden ofrecer productos financieros personalizados basados en el análisis de tus hábitos de gasto.
-> la IA y el ML trabajan juntos en muchas aplicaciones cotidianas para ofrecer experiencias más inteligentes y personalizadas, aprendiendo continuamente de la interacción de los usuarios para mejorar su precisión y efectividad.
+> **la IA y el ML trabajan juntos en muchas aplicaciones cotidianas para ofrecer experiencias más inteligentes y personalizadas, aprendiendo continuamente de la interacción de los usuarios para mejorar su precisión y efectividad.**
